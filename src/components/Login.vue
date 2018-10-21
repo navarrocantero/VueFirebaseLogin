@@ -1,10 +1,10 @@
 <template>
     <div class="login">
-        <h3>Accede</h3>
+        <h3>LOGIN</h3>
         <input v-model="email" type="email" placeholder="Email"><br>
         <input v-model="password" type="password" placeholder="Password"><br>
         <button v-on:click="signIn">Conectar</button>
-        <p>¿No tienes cuenta? <router-link to="/sign-up"> Regístrate ahora.</router-link></p>
+        <p>¿NO account? <router-link to="/sign-up"> Regístrate ahora.</router-link></p>
     </div>
 </template>
 
