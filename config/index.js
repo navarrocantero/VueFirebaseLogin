@@ -18,9 +18,9 @@ module.exports = {
     autoOpenBrowser: false,
     errorOverlay: true,
     notifyOnErrors: true,
-    poll: false, // https://webpack.js.org/configuration/dev-server/#devserver-watchoptions-
+    poll: false, // hMIRLO EL QUE LO LEA
 
-    
+
     /**
      * Source Maps
      */
