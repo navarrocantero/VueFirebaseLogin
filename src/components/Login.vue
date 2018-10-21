@@ -5,7 +5,7 @@
     <input v-model="password" type="password" placeholder="Password"><br>
     <button v-on:click="signIn">Conectar</button>
     <p>¿NO account?
-      <router-link to="/sign-up"> Regístrate ahora.</router-link>
+      <router-link to="/sign-up"> Register NOW.</router-link>
     </p>
   </div>
 </template>
